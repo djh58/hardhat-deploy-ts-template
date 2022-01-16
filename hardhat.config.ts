@@ -3,6 +3,7 @@ import { HardhatUserConfig, task } from "hardhat/config";
 import "@typechain/hardhat";
 import "@nomiclabs/hardhat-ethers";
 import "hardhat-deploy";
+import "hardhat-gas-reporter";
 import "hardhat-contract-sizer";
 
 // This is a sample Hardhat task. To learn how to create your own go to
