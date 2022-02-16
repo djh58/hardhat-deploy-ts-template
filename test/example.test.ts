@@ -14,9 +14,7 @@ describe("Unit Tests", () => {
 
   describe("more stuff", () => {
     it("unit test", async () => {
-      // blah blah blah 
+      // blah blah blah
     });
   });
-
- 
 });
