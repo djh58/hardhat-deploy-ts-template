@@ -4,7 +4,7 @@ on:
     types: [opened, edited, synchronize]
 jobs:
   build:
-    name: Check app and smart contracts build properly
+    name: Check smart contracts build properly
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
